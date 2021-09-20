@@ -5,8 +5,8 @@ Web developer student RS.School
 I am a web developer student studying in RS.School. My current location is Belarus, Mazyr. As man with rich last experience in oil industry and good success career I decided to open and learn new serious branch for achieve further horizons and heights. For this reasons I'm currently looking for new opportunities to obtain and expand my professional experience in Front-end Java Script.  As a person without any history of working with IT industry but has managing knowledge I am ready to work alongside a strong team immediately and get knowledge and experience and work out any task put forward.  
 ### Contacts information
 #### Contacts
-*+375 44 5000051
-*+375 29 2947081 (Telegram, Viber, WhatsApp)
+* +375 44 5000051
+* +375 29 2947081 (Telegram, Viber, WhatsApp)
 #### Email
 * karpoffk92@gmail.com
 * karpoffkos@mail.ru
