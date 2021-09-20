@@ -3,6 +3,7 @@
     flex-direction: column;
     align-items: stretch;
     padding: 5em;
+    
 };
 .header1 {
 flex: 0 0 75 vh;
@@ -13,12 +14,14 @@ flex: 0 0 75 vh;
     flex-wrap: wrap-reverse;
     text-align: start;
     padding: 5em;
+    font-size: 16px;
 }
 .header-container > div {
     flex-grow: 1;
 }
 .aboutMe {
     text-align: center; 
+    font-size: 16px;
 }
 .navigation {
     display: flex;
@@ -26,6 +29,7 @@ flex: 0 0 75 vh;
     justify-content: space-evenly;
     text-align: center;
     padding: 5em;
+    font-size: 16px;
 }
 .contact-information {
     display: flex;
@@ -33,6 +37,7 @@ flex: 0 0 75 vh;
     justify-content: space-evenly;
     text-align: center;
     padding: 5em;
+    font-size: 16px;
 }
 .education {
     display: flex;
@@ -40,10 +45,12 @@ flex: 0 0 75 vh;
     justify-content: space-evenly;
     text-align: center;
     padding: 5em;
+    font-size: 16px;
 }
 .language {
     text-align: start;
     padding: 5em;
+    font-size: 16px;
 }
 .e-history {
     display: flex;
@@ -51,10 +58,12 @@ flex: 0 0 75 vh;
     justify-content: space-evenly;
     text-align: center;
     padding: 5em;
+    font-size: 16px;
 }
 .add-information {
     text-align: start;
     padding: 5em;
+    font-size: 16px;
 }
 .footer1 {
     display: flex;
@@ -62,4 +71,5 @@ flex: 0 0 75 vh;
     justify-content: space-evenly;
     text-align: center;
     padding: 5em;
+    font-size: 16px;
 }
