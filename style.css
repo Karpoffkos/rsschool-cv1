@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: stretch;
     padding: 5em;
-    
+};
 
 .header-container {
     display: flex;
@@ -12,14 +12,14 @@
     text-align: start;
     padding: 5em;
     font-size: 32px;
-}
+};
 .header-container > div {
     flex-grow: 1;
-}
+};
 .aboutMe {
     text-align: center; 
     font-size: 32px;
-}
+};
 .navigation {
     display: flex;
     flex-direction: row;
@@ -27,7 +27,7 @@
     text-align: center;
     padding: 5em;
     font-size: 32px;
-}
+};
 .contact-information {
     display: flex;
     flex-direction: row;
@@ -35,7 +35,7 @@
     text-align: center;
     padding: 5em;
     font-size: 32px;
-}
+};
 .education {
     display: flex;
     flex-direction: row;
@@ -43,12 +43,12 @@
     text-align: center;
     padding: 5em;
     font-size: 32px;
-}
+};
 .language {
     text-align: start;
     padding: 5em;
     font-size: 32px;
-}
+};
 .e-history {
     display: flex;
     flex-direction: row;
@@ -56,12 +56,12 @@
     text-align: center;
     padding: 5em;
     font-size: 32px;
-}
+};
 .add-information {
     text-align: start;
     padding: 5em;
     font-size: 32px;
-}
+};
 .footer1 {
     display: flex;
     flex-direction: row;
@@ -69,4 +69,4 @@
     text-align: center;
     padding: 5em;
     font-size: 32px;
-}
+};
