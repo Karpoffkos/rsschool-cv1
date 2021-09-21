@@ -23,7 +23,7 @@
 .navigation {
     display: flex;
     flex-direction: row;
-    justify-content: ;
+    justify-content: space-around;
     text-align: center;
     padding: 5em;
     font-size: 32px;
